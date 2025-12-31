@@ -1,0 +1,16 @@
+{
+  "unique-app-id": {
+    "display_name": "bonjourwsdd",
+    "version": "1.0",
+    "desc": "在局域网里禁止重复出现过多的NAS设备。",
+    "labels": "工具",
+    "author": "疯狂的大叔",
+    "author_url": "https://github.com/HUiTHEME/appfn.cn",
+    "bug_report_url": "https://github.com/HUiTHEME/appfn.cn/issues",
+    "install_type": "系统空间",
+    "size": "2.1",
+    "history": {
+      "v0.1": "我来了"
+    }
+  }
+}
