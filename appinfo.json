@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "icon": "https://appfn.cn/img/icons/disbonjour.webp",
+      "name": "禁用发现",
+      "version": "v1.0.0",
+      "intro": "在局域网里禁止重复出现过多的 fnOS NAS设备。",
+      "size": "2.1 MB",
+      "free": "Free",
+      "download": "https://appfn.cn/fpk/disbonjour.fpk"
+    },
+    {
+      "icon": "https://picsum.photos/200/200",
+      "name": "家庭打印机",
+      "version": "v0.0.1",
+      "intro": "出门在外，打开fnOS手机APP，即可调用家里的打印机进行内容打印",
+      "size": "2.80 MB",
+      "free": "待发布",
+      "download": ""
+    },
+    {
+      "icon": "https://appfn.cn/img/icons/ssdtool.webp",
+      "name": "SSD助手",
+      "version": "v0.0.1",
+      "intro": "为固态硬盘设计的多功能查询工具，包括查询固态信息、性能测试、健康状态监测等功能。",
+      "size": "4.1 MB",
+      "free": "待发布",
+      "download": ""
+    },
+    {
+      "icon": "https://picsum.photos/200/200",
+      "name": "NAT类型",
+      "version": "v0.0.1",
+      "intro": "帮助大家快速检测家庭宽带的NAT类型（NAT0-4）",
+      "size": "2.4 MB",
+      "free": "待发布",
+      "download": ""
+    },
+    {
+      "icon": "https://picsum.photos/200/200",
+      "name": "压缩包预览",
+      "version": "v0.0.1",
+      "intro": "无须解压，直接就可以预览压缩包里的内容",
+      "size": "2.4 MB",
+      "free": "待发布",
+      "download": ""
+    },
+    {
+      "icon": "https://picsum.photos/200/200",
+      "name": "原图预览",
+      "version": "v0.0.1",
+      "intro": "在文件管理里直接预览原图。",
+      "size": "2.4 MB",
+      "free": "待发布",
+      "download": ""
+    }
+  ]
+}
